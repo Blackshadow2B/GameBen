@@ -1,0 +1,92 @@
+{
+    "name": "GameInputActions",
+    "maps": [
+        {
+            "name": "Architect",
+            "id": "f6f2b3a-4b6c-4b6e-b6e1-3d1b1b1b1b1b",
+            "actions": [
+                {
+                    "name": "CursorMove",
+                    "type": "Value",
+                    "id": "a1b2c3d4-e5f6-a7b8-c9d0-e1f2a3b4c5d6",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "PlaceTile",
+                    "type": "Button",
+                    "id": "b2c3d4e5-f6a7-b8c9-d0e1-f2a3b4c5d6e7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "SelectTile",
+                    "type": "Button",
+                    "id": "c3d4e5f6-a7b8-c9d0-e1f2-a3b4c5d6e7f8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "TriggerTrap",
+                    "type": "Button",
+                    "id": "d4e5f6a7-b8c9-d0e1-f2a3-b4c5d6e7f8g9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                }
+            ],
+            "bindings": []
+        },
+        {
+            "name": "Navigator",
+            "id": "e5f6a7b8-c9d0-e1f2-a3b4-c5d6e7f8g9h0",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "f6a7b8c9-d0e1-f2a3-b4c5-d6e7f8g9h0i1",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "a7b8c9d0-e1f2-a3b4-c5d6-e7f8g9h0i1j2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Interact",
+                    "type": "Button",
+                    "id": "b8c9d0e1-f2a3-b4c5-d6e7-f8g9h0i1j2k3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                },
+                {
+                    "name": "Look",
+                    "type": "Value",
+                    "id": "c9d0e1f2-a3b4-c5d6-e7f8-g9h0i1j2k3l4",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "bindings": []
+                }
+            ],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}
